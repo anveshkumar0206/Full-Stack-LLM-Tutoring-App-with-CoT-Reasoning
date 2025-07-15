@@ -16,8 +16,6 @@ An chatbot using [Gradio](https://gradio.app), [`huggingface_hub`](https://huggi
 
 An interactive AI-powered learning assistant that combines secure authentication, a user-friendly Gradio interface, and the Hugging Face deployed models to simulate Chain-of-Thought (CoT) reasoning for deeper educational dialogue.
 
----
-
 ## Features
 
 - **Full-Stack Functionality**: Includes user registration and login flow with in-memory credential management
@@ -25,8 +23,6 @@ An interactive AI-powered learning assistant that combines secure authentication
 - **Modular Design**: Clean separation of logic (helper functions) and UI (Gradio)
 - **Gradio UI**: Tab-based interface for smooth interaction and theming
 - **Chain-of-Thought Prompting**: Custom prompts guide the model to provide multi-step answers for better understanding
-
----
 
 ## Project Structure
 
@@ -36,8 +32,6 @@ An interactive AI-powered learning assistant that combines secure authentication
 ├── .env # Hugging Face API key
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview and setup
-
----
 
 ## Setup Instructions
 
